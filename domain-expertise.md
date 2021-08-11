@@ -16,7 +16,7 @@ One example of success in this area: You are trying to decide how to implement a
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Shows curiosity about the product their team is building (eg: how it helps customers, who are the downstream consumers, how to downstream consumers rely on it)</li>
 
@@ -25,7 +25,7 @@ One example of success in this area: You are trying to decide how to implement a
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Has working knowledge about the product their team is building.</li>
 
@@ -40,7 +40,7 @@ One example of success in this area: You are trying to decide how to implement a
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Has sound knowledge of the team's product(s) and its downstream consumers, and can be counted upon to represent the team's interests.</li>
 
@@ -55,7 +55,7 @@ One example of success in this area: You are trying to decide how to implement a
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Has working knowledge of an area of our products (eg: the BOSH ecosystem, the Platform, Logging and Metrics, PKS)</li>
 
@@ -70,7 +70,7 @@ One example of success in this area: You are trying to decide how to implement a
 </tr>
 
 <tr>
-<td><strong>P5</strong></td>
+<td><strong>L5 (eng director)</strong></td>
 <td valign="top"><ul>
   <li>Takes measures to dissipate their domain knowledge with a goal of empowering their team</li>
 </ul></td>

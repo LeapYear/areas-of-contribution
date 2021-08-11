@@ -48,7 +48,7 @@ See also: [Motivation](README.md#motivation).
 ##### *Skill Level*
 - What: Contributions at a Skill Level are what we typically observe of Pivots at that P-Level
 
-- Example: "P3"
+- Example: "L3 (senior engineer)"
 
 - Materializes as: A column in the markdown files here.  Also, Contributions/Skills in the feedback form are ordered roughly according to this number.
 

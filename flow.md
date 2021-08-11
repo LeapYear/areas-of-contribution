@@ -15,14 +15,14 @@ One example of success in this area: An investigation in your backlog has been b
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Is learning about how their team's artifacts flow to the customer (eg: release process, CI pipelines, dependencies)</li>
 </ul></td>
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Recognizes symptoms of reduced flow on their team (eg: persistently red CI, flaky tests, manual release process)</li>
 
@@ -33,7 +33,7 @@ One example of success in this area: An investigation in your backlog has been b
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Recognizes when and why team has reduced flow; surfaces the feedback to team leadership and at team retros</li>
 
@@ -54,7 +54,7 @@ One example of success in this area: An investigation in your backlog has been b
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Recognizes systemic bottlenecks in delivering value to customers</li>
 

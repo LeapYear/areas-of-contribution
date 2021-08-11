@@ -16,7 +16,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Shows curiosity in learning about an anchor’s role on their team, and is ready to shadow their team anchor</li>
 
@@ -27,7 +27,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Is responsible for creating and upholding team discipline. This includes setting an example of following team processes themselves, holding other team members accountable, and fostering a culture of providing open and honest feedback about team’s artifacts (product, repos, process.)</li>
 
@@ -48,7 +48,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Able to anchor teams with emerging product priorities and technical direction. They are able to help identify unknowns, and work with leadership to resolve them.</li>
 
@@ -69,7 +69,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Identifies systemic/long-running issues on their team and are able to intervene to resolve them</li>
 
@@ -90,7 +90,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 </tr>
 
 <tr>
-<td><strong>P5</strong></td>
+<td><strong>L5 (eng director)</strong></td>
 <td valign="top"><ul>
   <li>Regularly collaborates with leadership to align engineering efforts with strategic needs of our organization</li>
 </ul></td>

@@ -7,10 +7,10 @@ Serves the list of skills, formated as CSV, for use in the Feedback Heatmap shee
 
 ```
 $ curl https://us-central1-cf-rd-managers-feedback-eval.cloudfunctions.net/skillsAsCSV?gitRef=master
-"Technical Execution"," [Asks relevant questions on stories]","P1"
-"Technical Execution"," [Provides basic input into pair's progress]","P1"
-"Technical Execution"," [Provides coherent and informative updates at standup]","P1"
-"Technical Execution"," [Actively participates in pointing well-defined stories]","P1"
+"Technical Execution"," [Asks relevant questions on stories]","L1 (eng intern)"
+"Technical Execution"," [Provides basic input into pair's progress]","L1 (eng intern)"
+"Technical Execution"," [Provides coherent and informative updates at standup]","L1 (eng intern)"
+"Technical Execution"," [Actively participates in pointing well-defined stories]","L1 (eng intern)"
 ...
 ```
 

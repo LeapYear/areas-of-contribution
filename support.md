@@ -15,7 +15,7 @@ One example of success in this area: Your PM notes that there is an open support
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Responds with engagement to interrupts; can enlist help</li>
 
@@ -24,7 +24,7 @@ One example of success in this area: Your PM notes that there is an open support
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Makes forward progress on most interrupts</li>
 
@@ -37,7 +37,7 @@ One example of success in this area: Your PM notes that there is an open support
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Assesses interrupts and can identify what someone is really asking for</li>
 
@@ -52,7 +52,7 @@ One example of success in this area: Your PM notes that there is an open support
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Recognizes patterns in interrupts, and channels that feedback to drive product improvements</li>
 
@@ -65,7 +65,7 @@ One example of success in this area: Your PM notes that there is an open support
 </tr>
 
 <tr>
-<td><strong>P5</strong></td>
+<td><strong>L5 (eng director)</strong></td>
 <td valign="top"><ul>
   <li>Understands support as a first-class feature of the product; shapes product definition based on that understanding</li>
 

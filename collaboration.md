@@ -15,7 +15,7 @@ One example of success in this area: One of your teammates has a frequent habit 
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Communicates clearly and kindly with team mates</li>
 
@@ -28,7 +28,7 @@ One example of success in this area: One of your teammates has a frequent habit 
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Shares thoughts in a way that fosters further conversation and leaves space for others</li>
 
@@ -45,7 +45,7 @@ One example of success in this area: One of your teammates has a frequent habit 
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Sets an example for clear and kind communication in a disagreement</li>
 
@@ -64,7 +64,7 @@ One example of success in this area: One of your teammates has a frequent habit 
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Strongly facilitates decision-making where there are several conflicting viewpoints</li>
 
@@ -79,7 +79,7 @@ One example of success in this area: One of your teammates has a frequent habit 
 </tr>
 
 <tr>
-<td><strong>P5</strong></td>
+<td><strong>L5 (eng director)</strong></td>
 <td valign="top"><ul>
   <li>Is a source of guidance across Pivotal in areas of productively managing personal conflict and/or contention</li>
 </ul></td>

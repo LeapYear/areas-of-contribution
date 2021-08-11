@@ -15,14 +15,14 @@ Example of success in this area: You would like to work on <project 1> next, to 
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Volunteers for and is curious about stories/chores in the backlog that are important but less interesting</li>
 </ul></td>
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Volunteers for tedious/unglamorous but necessary tasks, such as chores/stories/action items/support tickets/open GitHub issues, and drives them to completion</li>
 
@@ -35,7 +35,7 @@ Example of success in this area: You would like to work on <project 1> next, to 
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>When presented with a less-desired but important project, can adapt their skills and make a positive impact on the team</li>
 
@@ -48,7 +48,7 @@ Example of success in this area: You would like to work on <project 1> next, to 
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Frames less-interesting but high-priority work to highlight the value and learning-opportunity, improving the entire team’s outlook on that work</li>
 

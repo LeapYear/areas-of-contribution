@@ -15,14 +15,14 @@ One example of success in this area: Your team is not very disciplined about bui
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Follows along with existing engineering process on teams (eg: TDD, pairing, CI and Tracker discipline, etc.)</li>
 </ul></td>
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Understands and explains the importance of improving feedback loops</li>
 
@@ -41,7 +41,7 @@ One example of success in this area: Your team is not very disciplined about bui
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Understands and explains the XP/Agile principles behind specific practices of team's engineering process</li>
 
@@ -56,7 +56,7 @@ One example of success in this area: Your team is not very disciplined about bui
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Provides challenging feedback (kindly) and coaches teammates to change their behaviour</li>
 
@@ -73,7 +73,7 @@ One example of success in this area: Your team is not very disciplined about bui
 </tr>
 
 <tr>
-<td><strong>P5</strong></td>
+<td><strong>L5 (eng director)</strong></td>
 <td valign="top"><ul>
   <li>Innovates on engineering process and evangelizes that change across the org. Follows through by helping relevant and interested teams adopt it successfully</li>
 </ul></td>

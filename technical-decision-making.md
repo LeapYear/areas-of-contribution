@@ -15,7 +15,7 @@ One example of success in this area: You have been noticing a lot of bugs arisin
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Makes technical decisions, resulting in features that work to complete a story.</li>
 
@@ -26,7 +26,7 @@ One example of success in this area: You have been noticing a lot of bugs arisin
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Surfaces and discusses various factors (e.g. maintainability, extensibility, security) when approaching a technical decision, with support from other pivots to make the final decision.</li>
 
@@ -35,7 +35,7 @@ One example of success in this area: You have been noticing a lot of bugs arisin
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Factors in maintenance (e.g. impact on feedback loops, onboarding new contributors) as parameter when making technical decisions.</li>
 
@@ -56,7 +56,7 @@ One example of success in this area: You have been noticing a lot of bugs arisin
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Takes an outcome-oriented mindset to technical decision-making.</li>
 

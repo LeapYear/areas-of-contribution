@@ -17,7 +17,7 @@ Another example of success in this area: You join a team whose main responsibili
 </thead>
 
 <tr>
-<td><strong>P1</strong></td>
+<td><strong>L1 (eng intern)</strong></td>
 <td valign="top"><ul>
   <li>Asks relevant questions on stories</li>
 
@@ -36,7 +36,7 @@ Another example of success in this area: You join a team whose main responsibili
 </tr>
 
 <tr>
-<td><strong>P2</strong></td>
+<td><strong>L2 (engineer)</strong></td>
 <td valign="top"><ul>
   <li>Able to lead a pair on well-defined tracks of work; can solo on well-defined tracks, if needed</li>
 
@@ -55,7 +55,7 @@ Another example of success in this area: You join a team whose main responsibili
 </tr>
 
 <tr>
-<td><strong>P3</strong></td>
+<td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
   <li>Able to lead a pair on all tracks of work; can solo on any story in the backlog, if needed</li>
 
@@ -74,7 +74,7 @@ Another example of success in this area: You join a team whose main responsibili
 </tr>
 
 <tr>
-<td><strong>P4</strong></td>
+<td><strong>L4 (staff engineer)</strong></td>
 <td valign="top"><ul>
   <li>Identifies long-running/systemic technical problems (eg: testing anti-patterns, poor code health) affecting the team and drives intervention</li>
 
