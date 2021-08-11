@@ -1,10 +1,10 @@
 ## Niche Skills
-A `niche skill` is useful to formally recognize a Pivot for their impact in an area that isn't comprehensively outlined in the central skill areas. This skill may be optional, subject-matter-specific, interest-specific, emerging in its practice within the organization, or requires better definition to be evaluated. The niche skill framework invites Pivots to express their unique impact and interests, and allows leadership to recognize their contributions. 
+A `niche skill` is useful to formally recognize an employee for their impact in an area that isn't comprehensively outlined in the central skill areas. This skill may be optional, subject-matter-specific, interest-specific, emerging in its practice within the organization, or requires better definition to be evaluated. The niche skill framework invites individuals to express their unique impact and interests, and allows leadership to recognize their contributions. 
 
-In order to use this category, the engineer, manager, and director must agree upon a career ladder or set of skills relevant to the new skill area. Once the skill area has been created, the pivot invests effort in developing those skills and using them to make a positive impact in the organization. 
+In order to use this category, the engineer, manager, and director must agree upon a career ladder or set of skills relevant to the new skill area. Once the skill area has been created, the individual invests effort in developing those skills and using them to make a positive impact in the organization. 
 
 ### Design notes
-Please include a short blurb, explaining the overarching purpose of this skill area, and an example of a pivot practicing it.  Depending on the topic, mapping the niche skill area to p-levels may make sense, but isn't required. At minimum, start with a bulleted list of skills in (approximate) ascending order of difficulty. Please refer to the [contributor's guide](CONTRIBUTING.md#style-guide) for guidance on writing skill descriptions.
+Please include a short blurb, explaining the overarching purpose of this skill area, and an example of an individual practicing it.  Depending on the topic, mapping the niche skill area to p-levels may make sense, but isn't required. At minimum, start with a bulleted list of skills in (approximate) ascending order of difficulty. Please refer to the [contributor's guide](CONTRIBUTING.md#style-guide) for guidance on writing skill descriptions.
 
 ### Example: Subject matter expertise in Networking
 

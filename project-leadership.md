@@ -22,7 +22,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 
   <li>Volunteers for facilitating team meetings</li>
 
-  <li>Discusses team “things” with their anchor (eg: team process, team health/morale, product, architecture)</li>
+  <li>Discusses team “things” with their team lead (eg: team process, team health/morale, product, architecture)</li>
 </ul></td>
 </tr>
 
@@ -41,7 +41,7 @@ One example of success in this area: You are anchoring your team. You’ve been 
 
   <li>Can provide technical leadership on their team, and are able to share their technical vision with team members</li>
 
-  <li>Able to anchor small/medium-sized teams with well-defined product priorities and technical direction</li>
+  <li>Able to lead small/medium-sized teams with well-defined product priorities and technical direction</li>
 
   <li>Recognizes when the team would benefit from cutting scope, and helps them get comfortable with it</li>
 </ul></td>
@@ -50,9 +50,9 @@ One example of success in this area: You are anchoring your team. You’ve been 
 <tr>
 <td><strong>L3 (senior engineer)</strong></td>
 <td valign="top"><ul>
-  <li>Able to anchor teams with emerging product priorities and technical direction. They are able to help identify unknowns, and work with leadership to resolve them.</li>
+  <li>Able to lead teams with emerging product priorities and technical direction. They are able to help identify unknowns, and work with leadership to resolve them.</li>
 
-  <li>Able to anchor larger teams</li>
+  <li>Able to lead larger teams</li>
 
   <li>Ensures they are not a single point of failure by effectively delegating responsibilities and sharing knowledge/context</li>
 

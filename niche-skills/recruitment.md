@@ -31,11 +31,11 @@ listed below might currently be coupled to certain job titles.)
   <li>Can run a cost-benefit analysis on proposed recruitment events/strategies before selecting which to move forward with given budget constraints.</li>
   <li>Has knowledge of the office’s composition and can select interviewers with different perspectives and experiences to provide a more whole picture of an interview candidate.</li>
   <li>Ensures their team is aligned on the specific competencies for the role.</li>
-  <li>Coaches Pivots on how to conduct RPIs.</li>
+  <li>Coaches colleagues on how to conduct RPIs.</li>
   <li>Improves the resume review and/or interview process by leveraging unconscious bias training.</li>
   <li>Facilitates decision-making in debriefs after an interview when there is opposing or ambiguous feedback.</li>
-  <li>Is a source of guidance across Pivotal on how to grow an office and improve the diversity of the hiring pipeline.</li>
-  <li>Coaches Pivots to identify candidates during resume review with relevant experience and education to fill the role they are applying to.</li>
+  <li>Is a source of guidance across the org on how to grow an office and improve the diversity of the hiring pipeline.</li>
+  <li>Coaches colleagues to identify candidates during resume review with relevant experience and education to fill the role they are applying to.</li>
 </ul>
 </td>
 </tbody></table>

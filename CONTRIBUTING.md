@@ -4,7 +4,7 @@
 
 This effort is still early and we've got a lot of problems to solve.  We welcome questions and suggestions for improvement.
 
-Feel free to open GitHub issues with questions or concerns. You can also reach out to your local Engineering Director to learn more, and/or join the conversation on Pivotal Slack at `#feedback-collection`.
+Feel free to open GitHub issues with questions or concerns. You can also reach out to James, Diego, Colton, or [other] team leads to learn more.
 
 ## Roadmap
 We're actively working to lower the cost of change to this repo.  Our goal is to
@@ -12,7 +12,7 @@ enable a pull-request workflow.
 
 To get there, we plan to:
 
-1. Document underlying intent behind existing skills: so that Pivots can consider and incorporate that intent when proposing changes to this repo
+1. Document underlying intent behind existing skills: so that LY employees can consider and incorporate that intent when proposing changes to this repo
 
 2. Establish a change-review process: so that contributors understand how
   their proposed changes will be reviewed and merged.
@@ -30,7 +30,7 @@ improvements...
 We're not trying to document our existing P-leveing system here.  We're only
 trying to identify and organize types of engineering contributions.
 
-We're attempting to organize contributions based on what we've historically observed to be impactful at various P-levels.
+We're attempting to organize contributions based on what we've historically observed to be impactful at various levels.
 
 See also: [Motivation](README.md#motivation).
 
@@ -39,14 +39,14 @@ See also: [Motivation](README.md#motivation).
 ### Terminology
 
 ##### *Contribution* / *Skill*
-- What: A specific, observable statement describing how an engineer may positively impact their team.  A single engineer doesn't have to master _all_ of these skills/contributions to be successful at Pivotal.
+- What: A specific, observable statement describing how an engineer may positively impact their team.  A single engineer doesn't have to master _all_ of these skills/contributions to be successful here.
 
 - Example: *"Understands and explains the importance of improving feedback loops"*
 
 - Materializes as: A "bullet-point" in a markdown file in this repo, and a "row" in our feedback forms.
 
 ##### *Skill Level*
-- What: Contributions at a Skill Level are what we typically observe of Pivots at that P-Level
+- What: Contributions at a Skill Level are what we typically observe of employees at that P-Level
 
 - Example: "L3 (senior engineer)"
 
@@ -54,7 +54,7 @@ See also: [Motivation](README.md#motivation).
 
 
 ##### *Skill Area*
-- What: A course-grained area of impact. Contains a set of possible contributions, organized by Skill Level.  A single engineer doesn't have to master _all_ of these areas to be successful at Pivotal.
+- What: A course-grained area of impact. Contains a set of possible contributions, organized by Skill Level.  A single engineer doesn't have to master _all_ of these areas to be successful here.
 
 - Example: *"Technical Execution"*
 
@@ -63,7 +63,7 @@ See also: [Motivation](README.md#motivation).
 
 ##### *Impact Heatmap*
 
-- What: A visual summary of feedback gathered for a single Pivot, organized by Skill Area (rows) and level-of-impact (columns).  It is used by managers to guide the growth of their reports and is **one of** the inputs used when determining a Pivot's P-level.
+- What: A visual summary of feedback gathered for a single employee, organized by Skill Area (rows) and level-of-impact (columns).  It is used by managers to guide the growth of their reports and is **one of** the inputs used when determining a employee's level.
 
 - Materializes as: A google sheet owned by a manager.
 
@@ -73,14 +73,14 @@ See also: [Motivation](README.md#motivation).
 - Phrase skills in a "Does X" style, whenever possible.
 - Frequency is currently handled via the feedback form, so it doesn't need to be part of the skill definitions.
 - Focus on the **impact** of contributions, rather than simply the mechanics of doing them. We want these skills to be useful incentives as well as measures of success.
-  - 👍 "Can fit healthy engineering chores into the normal flow of feature development." Pivots can be incentivized to maintain team health and balance with execution.
-  - 👎 "Refactors code regularly" Pivots might be incentivized to refactor code, simply to check this box.
+  - 👍 "Can fit healthy engineering chores into the normal flow of feature development." Colleagues can be incentivized to maintain team health and balance with execution.
+  - 👎 "Refactors code regularly" Colleagues might be incentivized to refactor code, simply to check this box.
 
 ### Themes across levels
 
 These themes span skills and skill areas, and are ordered from left-to-right
 roughly in terms of scope or depth of impact.  They can be useful in determining what
-P-level a particular skill belongs at.
+level a particular skill belongs at.
 
 <table>
 <tbody>
@@ -162,7 +162,7 @@ After editing one of the yaml files, regenerate the markdown by running the foll
       area: technical-execution
    ```
 
-0. Change the P-level associated with a skill definition.  Preserve existing responses.
+0. Change the level associated with a skill definition.  Preserve existing responses.
    ```diff
     - id: s2be43833
       description: Discusses the balance of short term execution with long term health
@@ -171,7 +171,7 @@ After editing one of the yaml files, regenerate the markdown by running the foll
    +  level: p3
    ```
 
-0. Change the meaning of a skill definition and its P-level.  Do not migrate old responses to the new skill.
+0. Change the meaning of a skill definition and its level.  Do not migrate old responses to the new skill.
    ```diff
    -- id: s2be43833
    -  description: Discusses the balance of short term execution with long term health
@@ -208,7 +208,7 @@ This repo has maintainers.  They are listed in the [MAINTAINERS](MAINTAINERS) fi
 
 The role of a maintainer is to:
 
-- Establish a change-approval process so that our practices, artifacts and tools may be improved by Pivots.
+- Establish a change-approval process so that our practices, artifacts and tools may be improved by colleagues.
 
 - Review issues and pull-requests against this repo and provide feedback.
 

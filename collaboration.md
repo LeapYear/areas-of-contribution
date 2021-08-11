@@ -1,7 +1,7 @@
 <!--- This file was GENERATED.  Do not edit it directly.  Instead, edit the corresponding YAML file --->
 ## Collaboration
 
-Ability to communicate clearly, proactively, and kindly. You initiate the communication in challenging situations. You behave in a way that ensures safety, inclusion, and recognition of fellow pivots. Your behavior leaves space for others to speak, and to disagree with your views. You contribute positively to our culture.
+Ability to communicate clearly, proactively, and kindly. You initiate the communication in challenging situations. You behave in a way that ensures safety, inclusion, and recognition of colleagues. Your behavior leaves space for others to speak, and to disagree with your views. You contribute positively to our culture.
 
 One example of success in this area: One of your teammates has a frequent habit of interrupting others in meetings, especially when they’re excited about an idea. You find them after a meeting, and directly but kindly deliver this feedback. They don’t know what you’re talking about. You ask if it would be okay to stop them next time this happens. They agree. In the future, the team feels comfortable with giving feedback about interrupting in meetings in the moment.
 
@@ -23,7 +23,7 @@ One example of success in this area: One of your teammates has a frequent habit 
 
   <li>Communicates with the intent to learn, and creates a safe space for others to disagree</li>
 
-  <li>Pairs easily/successfully with most Pivots and/or teams</li>
+  <li>Works easily/successfully with most colleagues and/or teams</li>
 </ul></td>
 </tr>
 
@@ -70,18 +70,18 @@ One example of success in this area: One of your teammates has a frequent habit 
 
   <li>Knows their blind spots and actively works towards managing them</li>
 
-  <li>Coaches pivots on how to facilitate conversations and meetings that allow other quieter teammates to share and get recognition for their ideas</li>
+  <li>Coaches colleagues on how to facilitate conversations and meetings that allow other quieter teammates to share and get recognition for their ideas</li>
 
   <li>Skillfully speaks up to address exclusionary behaviour in the moment</li>
 
-  <li>Coaches Pivots to recognize areas which could be benefitted by cross team collaboration</li>
+  <li>Coaches colleagues to recognize areas which could be benefitted by cross team collaboration</li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>L5 (eng director)</strong></td>
 <td valign="top"><ul>
-  <li>Is a source of guidance across Pivotal in areas of productively managing personal conflict and/or contention</li>
+  <li>Is a source of guidance across the org in areas of productively managing personal conflict and/or contention</li>
 </ul></td>
 </tr>
 

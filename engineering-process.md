@@ -60,7 +60,7 @@ One example of success in this area: Your team is not very disciplined about bui
 <td valign="top"><ul>
   <li>Provides challenging feedback (kindly) and coaches teammates to change their behaviour</li>
 
-  <li>Teaches our engineering process to new Pivots and relates it back to XP/Agile principles</li>
+  <li>Teaches our engineering process to new teammates and relates it back to XP/Agile principles</li>
 
   <li>Recommends and proliferates team-wide changes to engineering process, to fix team pain-points.</li>
 

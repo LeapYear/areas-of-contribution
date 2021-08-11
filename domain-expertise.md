@@ -61,7 +61,7 @@ One example of success in this area: You are trying to decide how to implement a
 
   <li>Preemptively identifies dependencies/repercussions of an epic to all consumers within a domain area; can suggest changes to required components to resolve it</li>
 
-  <li>Teaches Pivots on their team about a particular domain area</li>
+  <li>Teaches teammates about a particular domain area</li>
 
   <li>Leverages their knowledge of related domain concepts to better the product</li>
 
